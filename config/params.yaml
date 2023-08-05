@@ -1,0 +1,10 @@
+aster_go_to_goal_node:
+  ros__parameters:
+    max_linear_velocity: 0.3
+    alpha: 5
+    goal_tolerance: 0.03
+    delta_time: 0.1
+    Kp: 0.08
+    Ki: 0.001
+    Kd: 0.08
+
